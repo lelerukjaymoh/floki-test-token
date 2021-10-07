@@ -1,0 +1,16 @@
+{
+  "name": "floki-test-token",
+  "version": "1.0.0",
+  "description": "Floki contract for running tests",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Floki",
+    "Ethereum",
+    "Contract"
+  ],
+  "author": "jay@ngeni.io",
+  "license": "ISC"
+}
